@@ -103,7 +103,7 @@ void west_red(){
 }
 void main() {
      adcon1=7;
-     trisa=1;
+     trisa=255;
      trisb=0;
      trisc= 0;
      trisd=0;
